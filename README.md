@@ -1,4 +1,3 @@
 Javaのお勉強中です
 ====
-- helloworldです
-- インクリメントの練習です
+- ForStudyはfor文の練習です
